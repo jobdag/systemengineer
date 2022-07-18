@@ -355,12 +355,15 @@ nav.small {
 	height: 200px;
 	width: 200px;
 	background-size: cover;
+	
 }
 
 /* 7 Services
 ----------------------------------------------------------------------------- */
 .services-item{
 	padding: 40px 20px;
+
+
 }
 .services-item i{
 	font-size: 48px;
